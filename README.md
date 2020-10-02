@@ -17,3 +17,12 @@ I especially like to cuddle with my little cat Sando (trust me, he is SO CUTE).
 - Learning new skills (GitHub, Python, languages, etc.)
 - Cuddling with cats
 - Korea Baseball Organization (KBO)
+
+# Skills
+Below is a _list_ of my **technical skills**:
+## programs
+- Python
+- Microsoft Excel
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe After Effect
